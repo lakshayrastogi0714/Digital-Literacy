@@ -1,5 +1,5 @@
 
-## 🧩 Task Details
+# 📘 Digital Literacy Project
 
 ### 📊 Task 1 – Infographic
 - Created a digital literacy infographic using Canva  
