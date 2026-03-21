@@ -1,19 +1,16 @@
 **Email 1 — Write an email from a student to their professor requesting an extension on an assignment submission deadline. The email must follow all professional email rules.**
 
-Dear Professor ,
+Dear Professor,
 
-I hope you are doing well.
+I hope you are doing well. I am writing to request a short extension for the submission of the assignment for your course. Due to unforeseen circumstances, I have been unable to complete the assignment by the given deadline.
 
-I am writing to respectfully request an extension for the submission of my assignment, which is currently due on 31/ 03/2026. Due to unavoidable health reasons , I have been unable to complete the assignment to the best of my ability within the given timeframe.
-I sincerely value the quality of my work and would greatly appreciate an extension of 3 days to ensure that I can submit a well-prepared assignment. I assure you that I am making every effort to complete it as soon as possible.
-I apologize for any inconvenience this request may cause and truly appreciate your understanding and consideration.
+I assure you that I am making sincere efforts to complete the work and would be grateful if you could grant me an extension of a few days. This additional time will help me submit a more thorough and well-prepared assignment.
 
-Thank you for your time and support.
+I apologize for any inconvenience caused and appreciate your understanding. Thank you for your time and consideration.
 
-Sincerely,
+Yours sincerely,
 
-LAKSHAY RASTOGI
-
-CSE  - AIML
+Lakshay Rastogi
 
 25BAI10496
+
