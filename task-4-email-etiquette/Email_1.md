@@ -1,5 +1,7 @@
 **Email 1 — Write an email from a student to their professor requesting an extension on an assignment submission deadline. The email must follow all professional email rules.**
 
+**Subject:** Request for Assignment Submission Extension
+
 Dear Professor,
 
 I hope you are doing well. I am writing to request a short extension for the submission of the assignment for your course. Due to unforeseen circumstances, I have been unable to complete the assignment by the given deadline.
