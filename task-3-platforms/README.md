@@ -1,5 +1,5 @@
 
-# PART - A
+# PART - A Coding Practice
 
 **Here is the challenge "Solve Me First" on HackerRank**
 
@@ -10,7 +10,7 @@
 <img width="1608" height="785" alt="Hacker_Rank pts" src="https://github.com/user-attachments/assets/021ee13e-4df3-4baf-bcda-e39e6458e633" />
 
 
-# PART - B
+# PART - B Google Workspace Collaboration 
 
 **Here is the link of Google Form**
 
