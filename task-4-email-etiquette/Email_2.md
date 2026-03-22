@@ -1,3 +1,8 @@
+
+[Email-2.docx](https://github.com/user-attachments/files/26168454/Email-2.docx)
+
+# Email-2
+
 **Write an email from a student to an internship coordinator at a company,
 expressing interest in a summer internship opportunity**
 
