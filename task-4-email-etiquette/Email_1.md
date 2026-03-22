@@ -1,4 +1,9 @@
-**Email 1 — Write an email from a student to their professor requesting an extension on an assignment submission deadline. The email must follow all professional email rules.**
+[Email 1.docx](https://github.com/user-attachments/files/26168433/Email.1.docx)
+
+
+# Email 1  
+
+ **Write an email from a student to their professor requesting an extension on an assignment submission deadline. The email must follow all professional email rules.**
 
 **Subject:** Request for Assignment Submission Extension
 
@@ -15,4 +20,3 @@ Yours sincerely,
 Lakshay Rastogi
 
 25BAI10496
-
